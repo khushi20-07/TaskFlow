@@ -1,6 +1,6 @@
 TaskFlow
 
-TaskFlow is a modern Android To-Do application developed using Kotlin and Jetpack Compose. It helps users manage their daily tasks efficiently with a clean and user-friendly interface.
+TaskFlow is a modern Android To-Do application developed using Kotlin and Jetpack Compose.It helps users manage their daily tasks efficiently with a clean and user-friendly interface.
 
 Features
 - Add new tasks
